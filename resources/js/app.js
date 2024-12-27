@@ -3,6 +3,7 @@ import './bootstrap';
 
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
+import 'bootstrap-icons/font/bootstrap-icons.css'
 
 import EnvPlugin from './env-plugin';  // Import du plugin
 import router from './router';  // Import du router
